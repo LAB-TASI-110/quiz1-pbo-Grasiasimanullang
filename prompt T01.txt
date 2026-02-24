@@ -1,0 +1,6 @@
+prompt GPT
+coba bantu aku membuatkan code untuk soal ini
+ini daftar menu dan harganya coba jelaskan ulang
+coba kamu buatkan ulang codenya dari soal tadi dan gambar penjelasan ini
+tolong bantu jelaskan dimana kesalahannya
+Error: Could not find or load main class Driver1 ini bagaimana?
